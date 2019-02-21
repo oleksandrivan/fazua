@@ -1,0 +1,2 @@
+# fazua
+Fazua exercises 
